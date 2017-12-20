@@ -1,0 +1,2 @@
+class LineNumber < ApplicationRecord
+end
