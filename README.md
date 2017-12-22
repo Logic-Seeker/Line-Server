@@ -63,7 +63,7 @@ What third-party libraries or other tools does the system use? How did you choos
 How long did you spend on this exercise? If you had unlimited more time to spend on this, how would you spend it and how 
 would you prioritize each item?
 
-	I spend about 6-7 hours in total. I would definitely make it more reuseable cause the system reset the database for each file provided. I would also maybe switch to sinatra if the system does not have any other functionalities besides this which is lighter version. I would definitely have complete test coverage.
+	I spend about 12 hours in total. I would definitely make it more reuseable cause the system reset the database for each file provided. I would also maybe switch to sinatra if the system does not have any other functionalities besides this which is lighter version. I would definitely have complete test coverage.
 
 	I also would explore if there is additional performance benefits to using redis-server and maybe improve preprossing time.
 
